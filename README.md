@@ -1,2 +1,5 @@
 # HP-Prodesk-600-G1-SFF
 HP-Prodesk-600-G1-SFF 
+声卡ALC221
+网卡96360cd
+显卡 RX550 4G
